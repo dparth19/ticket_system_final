@@ -24,17 +24,17 @@ A Django-based web application to manage event/show ticket bookings with user au
 ## Home Page
 ![Home Page](screenshots/home_page.png)
 
-## Shows Page
-![Shows](screenshots/booking_page.png)
+## Show Page
+![Show Page](screenshots/show_page.png)
 
 ## Booking History
-![Booking History](screenshots/admin_panel.png)
+![Booking History](screenshots/booking_history.png)
 
-## Login Page
-![Login](screenshots/admin_panel.png)
+## Login
+![Login](screenshots/login.png)
 
-## Register Page
-![Register](screenshots/admin_panel.png)
+## Register
+![Register](screenshots/Register.png)
 
 ## Setup Instructions
 
@@ -47,4 +47,3 @@ cd ticket_system_final
 
 # Build and run Docker containers
 docker-compose up --build
-
