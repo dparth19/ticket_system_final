@@ -19,6 +19,23 @@ A Django-based web application to manage event/show ticket bookings with user au
 - Docker & Docker Compose
 - Jenkins (for DevOps automation)
 
+# Screenshots
+
+## Home Page
+![Home Page](screenshots/home_page.png)
+
+## Shows Page
+![Shows](screenshots/booking_page.png)
+
+## Booking History
+![Booking History](screenshots/admin_panel.png)
+
+## Login Page
+![Login](screenshots/admin_panel.png)
+
+## Register Page
+![Register](screenshots/admin_panel.png)
+
 ## Setup Instructions
 
 ```bash
@@ -30,3 +47,4 @@ cd ticket_system_final
 
 # Build and run Docker containers
 docker-compose up --build
+
